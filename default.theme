@@ -3,7 +3,7 @@ ThemeAuthor="SyoBoN"
 ThemeDescription="An IceWM theme just for me."
 Gradients="taskbuttonactive.xpm"
 
-Licesne="BSD-3-Clause"
+License="BSD-3-Clause"
 Look=flat
 
 BorderSizeX=4
