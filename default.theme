@@ -1,0 +1,110 @@
+ThemeName="Syobonic"
+ThemeAuthor="SyoBoN"
+ThemeDescription="An IceWM theme just for me."
+Gradients="taskbuttonactive.xpm"
+
+Licesne="BSD-3-Clause"
+Look=flat
+
+BorderSizeX=4
+BorderSizeY=4
+DlgBorderSizeX=1
+DlgBorderSizeY=1
+TitleBarHeight=24
+TitleBarJustify=50
+TitleButtonsLeft="s"
+TitleButtonsRight="xmi"
+TitleButtonsSupported="xmis"
+
+MenuIconSize=24
+SmallIconSize=24
+
+TitleFontNameXft="Noto Sans CJK JP:size=8"
+MenuFontNameXft="Noto Sans CJK JP:size=10:bold"
+StatusFontNameXft="Noto Sans Mono CJK JP:monospace:size=10:bold"
+QuickSwitchFontNameXft="Noto Sans Mono CJK JP:monospace:size=10:bold"
+NormalButtonFontNameXft="Noto Sans CJK JP:size=10"
+ActiveButtonFontNameXft="Noto Sans CJK JP:size=10"
+NormalTaskBarFontNameXft="Noto Sans CJK JP:size=10"
+ActiveTaskBarFontNameXft="Noto Sans CJK JP:size=10"
+ToolButtonFontNameXft="Noto Sans CJK JP:size=10"
+NormalWorkspaceFontNameXft="Noto Sans CJK JP:size=10"
+ActiveWorkspaceFontNameXft="Noto Sans CJK JP:size=10"
+MinimizedWindowFontNameXft="Noto Sans CJK JP:size=10"
+ListBoxFontNameXft="Noto Sans CJK JP:size=10"
+ToolTipFontNameXft="Noto Sans CJK JP:size=10"
+ClockFontNameXft="Cascadia Mono:monospace:size=10"
+TempFontNameXft="Noto Sans Mono CJK JP:monospace:size=10"
+ApmFontNameXft="Noto Sans Mono CJK JP:monospace:size=10"
+InputFontNameXft="Noto Sans CJK JP:size=10"
+LabelFontNameXft="Noto Sans CJK JP:size=10"
+
+ColorDialog=#282C34
+ColorNormalBorder=#282C34
+ColorActiveBorder=#A0B4FA
+ColorNormalButton=#282C34
+ColorNormalButtonText=#ABB2BF
+ColorActiveButton=#282C34
+ColorActiveButtonText=#ABB2BF
+ColorNormalTitleButton=#282C34
+ColorNormalTitleButtonText=#ABB2BF
+ColorToolButton=
+ColorToolButtonText=
+ColorNormalWorkspaceButton=
+ColorNormalWorkspaceButtonText=
+ColorActiveWorkspaceButton=
+ColorActiveWorkspaceButtonText=
+ColorNormalTitleBar=#282C34
+ColorNormalTitleBarText=#A0B4FA
+ColorNormalTitleBarShadow=
+ColorActiveTitleBar=#A0B4FA
+ColorActiveTitleBarText=#000064
+ColorActiveTitleBarShadow=
+ColorNormalMenu=#282C34
+ColorNormalMenuItemText=#A0B4FA
+ColorActiveMenuItem=#A0B4FA
+ColorActiveMenuItemText=#000064
+ColorDisabledMenuItem=#000000
+ColorDisabledMenuItemText=#000000
+ColorDisabledMenuItemShadow=
+ColorMoveSizeStatus=#282C34
+ColorMoveSizeStatusText=#A0B4FA
+ColorQuickSwitch=#282C34
+ColorQuickSwitchText=#A0B4FA
+ColorQuickSwitchActive=#A0B4FA
+ColorDefaultTaskBar=#282C34
+ColorNormalTaskBarApp=#282C34
+ColorNormalTaskBarAppText=#A0B4FA
+ColorActiveTaskBarApp=#282C34
+ColorActiveTaskBarAppText=#A0B4FA
+ColorMinimizedTaskBarApp=#282C34
+ColorMinimizedTaskBarAppText=#ABB2BF
+ColorInvisibleTaskBarApp=#282C34
+ColorInvisibleTaskBarAppText=#ABB2BF
+ColorScrollBar=
+ColorScrollBarSlider=
+ColorScrollBarButton=
+ColorScrollBarArrow=
+ColorScrollBarButtonArrow=
+ColorScrollBarInactiveArrow=
+ColorListBox=#282C34
+ColorListBoxText=#ABB2BF
+ColorListBoxSelection=#A0B4FA
+ColorListBoxSelectionText=#ABB2BF
+ColorToolTip=#282C34
+ColorToolTipText=#A0B4FA
+ColorLabel=#282C34
+ColorLabelText=#ABB2BF
+ColorInput=#ABB2BF
+ColorInputText=#282C34
+ColorInputSelection=#A0B4FA
+ColorInputSelectionText=#ffffff
+ColorClock=
+ColorClockText=#A0B4FA
+ColorApm=
+ColorApmText=#A0B4FA
+ColorApmBattery=#A0B4FA
+ColorApmLine=#98C379
+
+RolloverButtonsSupported=0
+ShowMenuButtonIcon=1
